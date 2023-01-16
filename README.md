@@ -5,11 +5,12 @@
 I'm a Full Stack Developer 💻 , IoT Entusuast and amateur 📷 Photographer. I'm a passionate learner who's always willing to learn and work across technologies and domains. I 💖 to explore new tools,libraries and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies.
 
 ### Connect with me:
-
-[![Linkedin](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/linkedin.svg)](https://linkedin.com/in/alexanastasgr)
-[![Codepen](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/codepen.svg)](https://codepen.io/alexanastasgr)
-[![Website](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/website.svg)](https://alexanas.gr)
-[![Email](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/envelope.svg)](mailto:me@alexanas.gr)
+[![Linkedin](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/linkedin.svg)](https://linkedin.com/in/alexanastasgr)
+[![Codepen](codepen.svg)](https://codepen.io/alexanastasgr)
+[![Twitter](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/twitter.svg)](https://twitter.com/alexanastasgr)
+[![Website](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/firefox.svg)](https://alexanas.gr)
+[![RSS](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/RSS.svg)]()
+[![Email](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/gmail.svg)](mailto:me@alexanas.gr)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/alexanastasgr/alexanastasgr/master/programmer.gif" />
 
