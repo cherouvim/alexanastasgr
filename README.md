@@ -2,7 +2,7 @@
 
 ### Summary
 
-I'm a Full Stack Developer 💻 , IoT Entusuast and amateur 📷 Photographer. I'm a passionate learner who's always willing to learn and work across technologies and domains. I 💖 to explore new tools,libraries and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies.
+I'm a Full Stack Developer 💻, IoT Entusuast and amateur 📷 Photographer. I'm a passionate learner who's always willing to learn and work across technologies and domains. I 💖 to explore new tools, libraries and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies.
 
 ### Connect with me:
 [![Linkedin](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/linkedin.svg)](https://linkedin.com/in/alexanastasgr)
@@ -26,7 +26,7 @@ I'm a Full Stack Developer 💻 , IoT Entusuast and amateur 📷 Photographer. I
 - 💻 &nbsp; Designing UI's / Components / Websites.
 - 🎸 &nbsp; Playing and painting guitars.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- 🌟 &nbsp; Mentoring other humanoids like me
+- 🌟 &nbsp; Mentoring other humanoids like me.
 
 ### 🔨 Familiarity with:
 
