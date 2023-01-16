@@ -6,7 +6,7 @@ I'm a Full Stack Developer 💻 , IoT Entusuast and amateur 📷 Photographer. I
 
 ### Connect with me:
 [![Linkedin](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/linkedin.svg)](https://linkedin.com/in/alexanastasgr)
-[![Codepen](codepen.svg)](https://codepen.io/alexanastasgr)
+[![Codepen](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/codepen.svg)](https://codepen.io/alexanastasgr)
 [![Twitter](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/twitter.svg)](https://twitter.com/alexanastasgr)
 [![Website](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/firefox.svg)](https://alexanas.gr)
 [![RSS](https://github.com/alexanastasgr/alexanastasgr/blob/master/icons/RSS.svg)]()
