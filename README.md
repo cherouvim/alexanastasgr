@@ -11,7 +11,7 @@ I'm a Full Stack Developer 💻 , IoT Entusuast and amateur 📷 Photographer. I
 [![Website](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/website.svg)](https://alexanas.gr)
 [![Email](https://github.com/alexanastasgr/alexanastasgr/blob/master/images/icons/envelope.svg)](mailto:me@alexanas.gr)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/alexanastasgr/alexanastasgr/blob/master/images/programmer.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/alexanastasgr/alexanastasgr/master/programmer.gif" />
 
 ### Talking about Personal Stuffs
 
