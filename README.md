@@ -16,14 +16,14 @@ I'm a Full Stack Developer 💻, IoT Entusuast and amateur 📷 Photographer. I'
 
 ### Talking about Personal Stuffs
 
-- 🚀 &nbsp; I’m currently learning TypeScript, Redux and 
+- 🚀 &nbsp; I’m currently learning TypeScript and Redux.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/alexanastasgr/alexanastasgr/issues)! I am happy to help.
-- 🏆 &nbsp; For free mentoring services sent email [here](mailto:mentoring@alexanas.gr)
+- 🏆 &nbsp; For free mentoring services send email [here](mailto:mentoring@alexanas.gr)
 - 📝 &nbsp; Checkout my [Resume](https://alexanas.gr/resume.pdf).
 
-### Some of thing i like to:
+### Some of thing I like to:
 
-- 💻 &nbsp; Designing UI's / Components / Websites.
+- 💻 &nbsp; Designing UIs / Components / Websites.
 - 🎸 &nbsp; Playing and painting guitars.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 - 🌟 &nbsp; Mentoring other humanoids like me.
